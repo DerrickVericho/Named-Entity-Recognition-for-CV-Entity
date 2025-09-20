@@ -1,0 +1,50 @@
+Phone
+Email
+082367903648
+derrickvericho@gmail.com Project LinkLinkedIn
+https://github.com/DerrickVericho
+https://www.linkedin.com/in/derrick-
+vericho-268563225/Derrick Vericho
+UNDERGRADUATE DATA SCIENCE
+STUDENT
+I’m a 5th-semester undergraduate student with a strong passion for data science and artificial intelligence, particularly
+in building solutions that connect technology with real-world needs. My interest lies in combining data-driven insights
+with the financial industry, exploring how AI can create smarter and more impactful services. Through various projects, I
+have developed skills in data analysis, machine learning, and system development, while continuously seeking
+challenges that push me to grow. ABOUT ME
+Second author & Corresponding author on published paper “Vision Transformer and CNNs in Kidney Stone
+Classification: A Comparative Study” acceptance on ICCSCIACTIVITIES
+Activist Data Science Club: Research DivisionSKILL
+Relevant Course: Deep Learning, Machine Learning, Model Deployment, Bayesian Data Analysis, Artificial Intelligence, Data Strucure,
+Algorithm Programming, Text Mining, Big Data & Infrastructure, Software Engineering, Database TechnologyEDUCATION
+Data Science, School of Computer Science, GPA: 3.57
+Binus University 2023 - present
+Programming & Tools: Python, SQL, Docker, Git, Node.js, Typescript, n8n
+ML & AI Frameworks: TensorFlow, PyTorch, scikit-learn, FastAPI, LangChain
+NLP & LLM: HuggingFace, Transformers, Prompt Engineering, RAG, VectorDB
+Databases: MySQL, PostgreSQL
+PROJECTS
+Finance AI Expert Chatbot
+Developed an AI-powered chatbot that provides personalized insights on stock analysis, crypto trends, and portfolio management.
+Built an interactive web app using Streamlit, integrating conversational AI models for real-time financial Q&A.
+Simplified complex financial concepts into user-friendly explanations, improving accessibility for students and beginner investors.
+Applied interdisciplinary skills in AI, finance, and UI/UX design to create a functional and engaging tool.
+SPY Forecasting using LSTM
+Built a machine learning web app to predict obesity levels based on lifestyle & habit data
+Compared Random Forest vs. XGBoost models for classification, selected Random Forest due to higher test accuracy (94.31% vs.
+91.94%) and strong generalization.
+Designed intuitive UI/UX to communicate predictions and probabilities integrated with FastAPI as backend
+Obesity Level Prediction Web App
+Built and trained an LSTM-based deep learning model to forecast SPY ETF price movements using historical time series data.
+Designed complete pipeline: data collection, preprocessing, sequence generation, model training, and evaluation metrics.
+Achieved strong predictive performance with: MSE: 0.0013, RMSE: 0.0362, MAE: 0.0261, R ²  Score: 0.8729.
+CERTIFICATION
+IBM Data Science
+Developed full data science pipeline (data wrangling, modeling, deployment) using Python, SQL, Jupyter & Watson Studio
+Executed real-world projects: house price regression, loan default classification, cross ‑ platform flight reliability dashboard
+Built expertise in ML algorithms (regression, tree ‑ based, clustering), deep learning & generative AI
+NVIDIA Fundamentals of Deep Learning
+Trained CNNs for image classification/object detection, leveraging GPU acceleration and model optimization
+Applied data augmentation & hyperparameter tuning to improve model robustness
+Employed transfer learning to accelerate development using pretrained architectures
+Deployed end-to-end computer vision solutions, including final project (e.g. fresh vs rotten fruit classification)
