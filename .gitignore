@@ -1,5 +1,6 @@
 # CV Dataset
 CV_pdf/
 CV_txt/
-tagged_jsonl/
-tagged_conll/
+dataset_json/
+dataset_conll/
+results
